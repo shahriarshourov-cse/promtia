@@ -1,0 +1,6 @@
+I need to install first some dep.
+bcrypt for hashing password
+mongodb fro database
+mongoose for management
+next-auth for authentication
+npm install bcrypt mongodb mongoose next-auth
